@@ -4,6 +4,7 @@
     var lng = -122.08;
     var lat = 37.38;
 
+    //test
 	init(); 
 	function init(){
       document.querySelector('#login-form-btn').addEventListener('click', onSessionInvalid);
